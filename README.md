@@ -10,6 +10,18 @@ Estou utilizando este espaço para:
 - Organizar minhas soluções de forma clara
 - Acompanhar minha evolução no Python
 
+## 🧠 Estrutura do Repositório
+
+Os desafios estão organizados por categorias da HackerRank:
+
+```bash
+📁 hackerrank-python-solutions/
+
+├── Algorithms/
+│ └── SolveMeFirst.py
+| └── ...
+```
+
 ## ✍️ Autor
 
 Marllon Batista
